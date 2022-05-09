@@ -3,7 +3,7 @@ With Coding u can enjoy life more.
 
 ### Image Concatenation  
 Concatenating images and save as new file.  
-One can see whole images at one glance
+One can see whole images at one glance.  
 [Source code](https://github.com/hyeok-jong/images_concat)    
 
 ### PDF padding empty space for notetaking.  
